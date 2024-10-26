@@ -1,0 +1,31 @@
+Results for input file 1 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-0.2_task.csv):
+Instance_1 1 0 0.0
+Instance_2 1 0 0.0
+Instance_3 1 0 0.0
+Instance_4 1 0 0.0
+Instance_5 1 0 0.0
+Results for input file 1 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-0.2_task.csv):
+
+Results for input file 2 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-0.5_task_2.csv):
+
+Results for input file 3 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-1_task.csv):
+
+Results for input file 4 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-2_task.csv):
+
+Results for input file 5 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-5_task.csv):
+
+Instance_1 1 0 0.0
+Instance_2 1 0 0.0
+Instance_3 1 0 0.0
+Instance_4 1 0 0.0
+Instance_5 1 0 0.0
+Results for input file 1 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-0.2_task.csv):
+
+Results for input file 2 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-0.5_task_2.csv):
+
+Results for input file 3 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-1_task.csv):
+
+Results for input file 4 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-2_task.csv):
+
+Results for input file 5 (/Users/kunalpathak9826/Desktop/untitled folder/kiva-5_task.csv):
+

@@ -1,0 +1,40 @@
+=== Timing for task file 1: kiva-0.2_task.txt ===
+Time taken by run_TOTP: 1.03106 seconds
+Time taken by SavePath (simu1): 0.126037 seconds
+Time taken by run_TPTR: 31.1275 seconds
+Time taken by SavePath (simu2): 0.132535 seconds
+Time taken by ShowTask (simu2): 0.000118792 seconds
+=== Completed timing for task file 1 ===
+
+=== Timing for task file 2: kiva-0.5_task.txt ===
+Time taken by run_TOTP: 1.05188 seconds
+Time taken by SavePath (simu1): 0.125515 seconds
+Time taken by run_TPTR: 2.36779 seconds
+Time taken by SavePath (simu2): 0.130135 seconds
+Time taken by ShowTask (simu2): 0.000125667 seconds
+=== Completed timing for task file 2 ===
+
+=== Timing for task file 3: kiva-1_task.txt ===
+Time taken by run_TOTP: 0.807384 seconds
+Time taken by SavePath (simu1): 0.128122 seconds
+Time taken by run_TPTR: 2.16941 seconds
+Time taken by SavePath (simu2): 0.127769 seconds
+Time taken by ShowTask (simu2): 0.000112875 seconds
+=== Completed timing for task file 3 ===
+
+=== Timing for task file 4: kiva-2_task.txt ===
+Time taken by run_TOTP: 0.725034 seconds
+Time taken by SavePath (simu1): 0.126835 seconds
+Time taken by run_TPTR: 2.24417 seconds
+Time taken by SavePath (simu2): 0.127756 seconds
+Time taken by ShowTask (simu2): 0.000104125 seconds
+=== Completed timing for task file 4 ===
+
+=== Timing for task file 5: kiva-5_task.txt ===
+Time taken by run_TOTP: 0.732591 seconds
+Time taken by SavePath (simu1): 0.126931 seconds
+Time taken by run_TPTR: 2.51697 seconds
+Time taken by SavePath (simu2): 0.12788 seconds
+Time taken by ShowTask (simu2): 0.000100166 seconds
+=== Completed timing for task file 5 ===
+
